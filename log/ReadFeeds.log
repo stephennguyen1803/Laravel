@@ -1,0 +1,58 @@
+[2019-09-20 06:15:13] local.INFO: Hello world!!  
+[2019-09-20 06:27:42] local.ERROR: Test  
+[2019-09-20 06:43:37] local.INFO: {"id":3,"title":"RSS Solutions for Computer Service Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":4,"title":"RSS Solutions for Governments","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":5,"title":"RSS Solutions for Politicians","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":6,"title":"RSS Solutions for Meteorologists","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":7,"title":"RSS Solutions for Realtors & Real Estate Firms","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":8,"title":"RSS Solutions for Banks \/ Mortgage Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":9,"title":"RSS Solutions for Law Enforcement","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":10,"title":"RSS Resources","category":""}  
+[2019-09-20 06:43:37] local.INFO: {"id":11,"title":"Recommended Desktop Feed Reader Software","category":""}  
+[2019-09-20 06:43:37] local.INFO: {"id":12,"title":"Recommended Web Based Feed Reader Software","category":""}  
+[2019-09-20 06:43:37] local.INFO: {"id":14,"title":"RSS Solutions for Restaurants","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":15,"title":"RSS Solutions for Schools and Colleges","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":16,"title":"RSS Solutions for Computer Service Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":17,"title":"RSS Solutions for Governments","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":18,"title":"RSS Solutions for Politicians","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":19,"title":"RSS Solutions for Meteorologists","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":20,"title":"RSS Solutions for Realtors & Real Estate Firms","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":21,"title":"RSS Solutions for Banks \/ Mortgage Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":22,"title":"RSS Solutions for Law Enforcement","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":23,"title":"RSS Solutions for Restaurants","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":24,"title":"RSS Solutions for Schools and Colleges","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":25,"title":"RSS Solutions for Computer Service Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":26,"title":"RSS Solutions for Governments","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":27,"title":"RSS Solutions for Politicians","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":28,"title":"RSS Solutions for Meteorologists","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":29,"title":"RSS Solutions for Realtors & Real Estate Firms","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":30,"title":"RSS Solutions for Banks \/ Mortgage Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 06:43:37] local.INFO: {"id":31,"title":"RSS Solutions for Law Enforcement","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":3,"title":"RSS Solutions for Computer Service Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":4,"title":"RSS Solutions for Governments","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":5,"title":"RSS Solutions for Politicians","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":6,"title":"RSS Solutions for Meteorologists","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":7,"title":"RSS Solutions for Realtors & Real Estate Firms","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":8,"title":"RSS Solutions for Banks \/ Mortgage Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":9,"title":"RSS Solutions for Law Enforcement","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":10,"title":"RSS Resources","category":""}  
+[2019-09-20 07:01:17] local.INFO: {"id":11,"title":"Recommended Desktop Feed Reader Software","category":""}  
+[2019-09-20 07:01:17] local.INFO: {"id":12,"title":"Recommended Web Based Feed Reader Software","category":""}  
+[2019-09-20 07:01:17] local.INFO: {"id":14,"title":"RSS Solutions for Restaurants","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":15,"title":"RSS Solutions for Schools and Colleges","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":16,"title":"RSS Solutions for Computer Service Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":17,"title":"RSS Solutions for Governments","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":18,"title":"RSS Solutions for Politicians","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":19,"title":"RSS Solutions for Meteorologists","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":20,"title":"RSS Solutions for Realtors & Real Estate Firms","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":21,"title":"RSS Solutions for Banks \/ Mortgage Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":22,"title":"RSS Solutions for Law Enforcement","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":23,"title":"RSS Solutions for Restaurants","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":24,"title":"RSS Solutions for Schools and Colleges","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":25,"title":"RSS Solutions for Computer Service Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":26,"title":"RSS Solutions for Governments","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":27,"title":"RSS Solutions for Politicians","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":28,"title":"RSS Solutions for Meteorologists","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":29,"title":"RSS Solutions for Realtors & Real Estate Firms","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":30,"title":"RSS Solutions for Banks \/ Mortgage Companies","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
+[2019-09-20 07:01:17] local.INFO: {"id":31,"title":"RSS Solutions for Law Enforcement","category":"Computers\/Software\/Internet\/Site Management\/Content Management"}  
