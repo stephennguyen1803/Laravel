@@ -1,0 +1,22 @@
+version: 2
+
+jobs:
+  build:
+    machine:
+      image: circleci/classic:201808-01
+    steps:
+      - run:
+          name: Clone Source
+          command: 'git clone https://github.com/stephennguyen1803/Laravel.git ~/project'
+      - run: 
+          name: check file project
+          command: 'cd ~/project && ls -la'
+      - run:
+          name: Install Data Requirement
+          command: 'cd ~/project && docker-compose up -d'
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
+
