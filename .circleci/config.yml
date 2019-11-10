@@ -14,9 +14,7 @@ jobs:
             MUTAGEN_ARCHIVE: v0.10.0/mutagen_linux_amd64_v0.10.0.tar.gz
       - run:
           name: Install Data Requirement
-          command: |
-                docker-composer build
-                docker-composer up -d
+          command: 'docker-compose up -d'
 workflows:
   version: 2
   build:
